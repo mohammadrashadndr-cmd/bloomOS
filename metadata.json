@@ -1,0 +1,10 @@
+{
+  "name": "Remix: BloomOS v1.2",
+  "description": "BloomOS - Real-time voice-to-voice AI companion with a witty, playful, and emotionally alive personality named Zoya.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
